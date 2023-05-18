@@ -1,2 +1,2 @@
 Belajar bekerja dengan github agar dapat bekerja sama dengan tim nanti saat bekerja
-Mencoba mengedit commit
+Mencoba checkout commit
